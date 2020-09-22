@@ -1,0 +1,123 @@
+					<!------------------ HEADER ----------------------->
+
+	(Logo) "Oh my food"
+
+					<!----------------- FIN HEADER -------------------->
+
+					<!-------------- section_1 ------------------->
+					
+						<!---------------- titre <h3> ----------------->
+
+								(<i class="fas fa-map-marker-alt"></i>) Paris, Belleville
+
+						<!----------------- FIN titre ------------------>
+
+						<!---------------- titre <h2> ------------------>
+	
+								<h2> Book the menu you like </h2>
+	
+						<!------------------- FIN titre ----------------->
+
+						<!--------------- paragraphe --------------------->
+
+								<p> Discover top-of-the-art restaurants we picked for you </p>
+	
+						<!----------------- FIN de paragraphe ---------------->
+
+						<!--------------- bouton ----------------->
+
+								<p> Explore our restaurants </p>
+	
+						<!------------- fin de bouton ------------------->
+
+					<!----------- Fin section_1 ------------->
+
+					<!----------- section_2 -------------->
+
+	How it works
+
+	1 (icone mobile) Choose a restaurant
+
+	2 (icone liste) Create your menu
+
+	3 (icone maison) Go enjoy it at the restaurant
+
+					<!---------- Fin section_2 ------------>
+					
+					<!------------ section_3 -------------->
+
+						<!--------------- Titre <h3> ----------------->
+							
+							<h3> Restaurants </h3>
+							
+						<!--------------- fin Titre ----------------->							
+							
+
+						<!-------------- bloc_1 --------------->
+
+							(Img du restaurant)
+							
+							<!------------------- titre <h2> ---------------------->
+							
+								<h2> The Full Palette </h2>
+								
+							<!-------------------FIN titre --------------------->
+
+			<!---------------- lieu <h3> ------------------>
+	
+		(lieu) New York
+		
+			<!--------------- fin lieu ----------------->
+			
+						<!------------- fin bloc_1 -------------->
+
+						<!--------------- bloc_2 ---------------->
+
+(Img du restaurant)
+<!-- titre <h2> -->
+	The Enchanted Plate
+
+<!-- lieu <h3> -->
+	lieu) New York
+
+						<!-------------- fin bloc_2 -------------->
+
+						<!---------------- bloc_3 ---------------->
+
+(Img du restaurant)
+<!-- titre <h2> -->
+	Bastille
+
+<!-- lieu <h3> -->
+	(lieu) New York
+
+						<!--------------- fin bloc_3 --------------->
+
+						<!----------------- bloc_4 ------------------>
+
+(Img du restaurant)
+	<!-- titre <h2> -->
+	Le Gourmand
+
+	<!-- lieu <h3> -->
+	(lieu) New York
+
+						<!---------------- fin bloc_4 ------------------>
+	
+						<!------------------ FOOTER -------------------->
+						
+	<!-- titre <h2> -->
+		(logo)ohmyfood
+
+		<!-------- puces ------->
+		<ul>
+			(icone couvert) Suggest a restaurant
+
+			(icone poignet de main) Become a partner
+
+			<p> Legal <p>
+
+			<p> Contact <p>
+		</ul>
+						<!------------------ FIN FOOTER -------------------->
+	
