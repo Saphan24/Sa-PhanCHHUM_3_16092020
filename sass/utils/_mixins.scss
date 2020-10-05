@@ -1,0 +1,19 @@
+@mixin ombrage{
+    box-shadow: 0px 5px 20px 0 #BDBDBD;
+}
+
+@mixin background-image-primary {
+    background-image: $background-image-primary;
+}
+
+@mixin background-image-secondary {
+    background-image: $background-image-secondary;
+}
+
+@mixin background-image-tertiary {
+    background-image: $background-image-tertiary;
+}
+
+@mixin background-image-quaternary {
+    background-image: $background-image-quaternary;
+}

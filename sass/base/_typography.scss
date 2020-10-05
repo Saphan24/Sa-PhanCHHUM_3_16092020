@@ -1,0 +1,90 @@
+*{
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    font-size: 1rem;
+    line-height: 1.5;
+} 
+
+.section-localisation{
+    p{
+        font-size: 1rem;
+        font-family: 'Roboto', sans-serif;
+    }
+}
+
+.section-description{
+    .description-titre{
+        font-size: 1.5rem;
+    }
+    p{
+        font-size: 1.1rem;
+    }
+    .btn{
+        font-size: 1.1rem;
+    }
+}
+
+.section-explication{
+    .explication-titre{
+        font-size: 1.5rem;
+    }
+    &__article{
+        p{
+           font-weight: bold; 
+        }
+    }
+}
+
+.section-restaurants{
+    padding: 50px 6%;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: $background-color-tertiary;
+    .restaurants-titre{
+        font-size: 1.5rem;
+        margin-bottom: 5%;
+    }
+}
+
+
+.resto-prev__image{
+    display: block;
+    overflow: hidden;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    padding-top: 30%;
+    padding-bottom: 25%;
+    position: relative;
+}
+
+.resto-prev__heading {
+    font-size: 1.2em;
+    .text{
+        text-align: left;
+    }
+        .titre{
+            font-size: 1.1rem;
+            font-weight: bold;
+        }
+}
+
+/*-- Menu --*/
+    
+.resto{
+    font-size: 1.8rem;
+    font-family: 'Shrikhand', cursive;
+}
+
+.like{
+    font-size: 1.5rem;
+}
+
+.menu-title{
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+

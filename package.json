@@ -1,0 +1,17 @@
+{
+  "name": "sass",
+  "version": "1.0.0",
+  "description": "Projet 3 OhMyFood",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:.public/css/style.css",
+    "prefix": "postcss ./.public/css/style.css --use autoprefixer -d ./.public/css/prefixed/"
+  },
+  "author": "Sa Phân",
+  "license": "ISC",
+  "browserslist": "last 4 versions",
+  "dependencies": {
+    "peer": "^0.5.3",
+    "postcss": "^8.1.1"
+  }
+}

@@ -1,0 +1,17 @@
+header{
+    height: 80px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background: #ffffff;
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    img{
+    width: 50%;
+    }
+}
