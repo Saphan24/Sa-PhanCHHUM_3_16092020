@@ -316,7 +316,9 @@ header {
   text-overflow: ellipsis;
 }
 .menu-article__plat h2 {
+  overflow: hidden;
   font-weight: 700;
+  text-overflow: ellipsis;
 }
 .menu-article__prix {
   font-weight: bold;
@@ -374,17 +376,17 @@ header {
 }
 
 .menu-article:nth-child(2) {
-  animation: apparition 1s ease both;
+  animation: apparition 2s ease both;
   animation-delay: 0.4s;
 }
 
 .menu-article:nth-child(3) {
-  animation: apparition 1s ease both;
+  animation: apparition 3s ease both;
   animation-delay: 0.6s;
 }
 
 .menu-article:nth-child(4) {
-  animation: apparition 1s ease both;
+  animation: apparition 4s ease both;
   animation-delay: 0.8s;
 }
 
@@ -426,7 +428,7 @@ header {
   justify-content: center;
   align-items: center;
   text-align: center;
-  animation: turnoff 3s ease forwards;
+  animation: turnoff 2s ease forwards;
 }
 
 @keyframes turnoff {
@@ -438,8 +440,8 @@ header {
   }
 }
 .loader {
-  width: 200px;
-  height: 200px;
+  width: 250px;
+  height: 250px;
   display: inline-flex;
   position: relative;
   align-items: center;
