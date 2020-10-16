@@ -386,7 +386,7 @@
     @include ombrage; 
     cursor: pointer;
     &:hover{
-        @include ombrage; 
+        @include ombrage-bouton; 
         transform: scale(1.15);
         filter: brightness(1.1); 
     } 
