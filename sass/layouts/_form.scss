@@ -145,7 +145,6 @@
             .fas.fa-heart{ 
                 font-size: 1.7rem;
                 background: -webkit-linear-gradient(bottom, $colour-secondary, $colour-primary);
-                    background-clip: text;
                     -webkit-background-clip: text;
                     -webkit-text-fill-color:transparent;
                 position: absolute;
@@ -237,7 +236,6 @@
         left: -1px;
         top: 3px;
         background: -webkit-linear-gradient(bottom, $colour-secondary, $colour-primary);
-        background-clip: text;
         -webkit-background-clip: text;
         -webkit-text-fill-color:transparent;
         opacity: 0;
