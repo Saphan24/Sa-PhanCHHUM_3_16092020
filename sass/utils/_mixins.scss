@@ -2,6 +2,10 @@
     box-shadow: 0px 5px 20px 0 #BDBDBD;
 }
 
+@mixin ombrage-bouton{
+    box-shadow: 0px 10px 20px 0 #7e7d7d;
+}
+
 @mixin background-image-primary {
     background-image: $background-image-primary;
 }
